@@ -2,27 +2,32 @@ Student Name: Amro Elbahrawy
 
 Course: SOEN 6841 (Software Project Management)
 
-Journal URL: [Insert Publicly-accessible Cloud Service URL]
+Journal URL: https://github.com/am-elbah/SOEN-6841-Journals
 
-Week 1: [Insert Date Range]
+Week 1: Jan 18-Jan 24
 
-Date: [Insert Date]
+Date: 1/23/2024
 
 Key Concepts Learned:
-Summarize the main concepts covered in this week's sessions.
-Include any new terms, methodologies, or frameworks introduced.
+Familiarized with the key concepts regarding softwre project management, project management, the difference between them, and the process for each one.
+Learned the general concepts for the tasks involving each step in the software project management process.
+Saw how project scoping and charters are applied in a real world software project.
+Applied these concepts in projects that were previously done in other courses.
 
 Application in Real Projects:
-Reflect on how the week's learnings could be applied to real-world projects.
-Consider any potential challenges and benefits of implementing these concepts.
+Considering how complex and demanding the current software projects are due to the constant evolution in technology, a highly competitive market, and stakeholders who require specific needs, applying 
+the software managment principles as guidelines to follow is extremely helpful to easily track, manage, monitor, and have visibility over the project's progress.
+Challenges include providing an accurate scope for the project that satisfies everybody, especially when stakeholders' requirements contain ambiguity or if they have different needs.
+Configuration management requires very thorough understanding of the project's requirements and costs, in order to know what the possible changes are and adapt to them accordingly.
 
 Peer Interactions:
 Describe any notable interactions with peers during the week.
 Share insights gained through discussions or collaborative activities.
 
 Challenges Faced:
-Identify any challenges encountered while studying this week.
-Note specific areas that need further clarification or additional effort.
+Some difficulty was faced in Chapter 1's exercise while I was searching for the main factors on why government agencies are investing more into the IT field.
+Project charter and scope were a bit harder to distinguish at the start, especially knowing which information better fits which concept. (for example, numerical values such as the expected customer satisfaction is usually mentioned in the scope and not the charter)
+
 
 Personal development activities:
 Mention any activity you undertook for your own professional development
