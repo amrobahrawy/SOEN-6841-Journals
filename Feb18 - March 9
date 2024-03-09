@@ -1,0 +1,37 @@
+March 9 Journal Journal
+Student Name: Amro Elbahrawy
+
+Course: SOEN 6841 (Software Project Management)
+
+Journal URL: https://github.com/am-elbah/SOEN-6841-Journals
+
+Week 1: Feb18 – March 9
+
+Date: 3/09/2024
+
+Key Concepts Learned:
+The focus during these 3 weeks were midterm preparation & deliverable 2 work.
+While studying from the book, slides, and other sources online, a lot of the concepts became much clearer.
+The main concepts that I learned for the midterm that were completely new were: Goldratt’s methodology aims to only move buffers to the end, and not entirely remove them if they seem unnecessary. Also, if the cost of resolving a risk is equal to the impact of the risk, then that risk measure counts as ineffective even though it is not a net loss. Centralized architecture for a project seems like the better approach for configuration management overall, even though it has a very huge drawback in single point of failure… I thought for sure that distributed systems are almost the better approach for projects currently. 
+
+As for the project, I am mainly working on the feasibility study and the proposed solution for out project. Feasibility studies only provide a rough estimation of things, so that other deliverables can use it as a reference to things, but you still need to precisely break down everything that is required by the project. Namely: how many phases and which tasks do they include, which SDLC will you be following, everything that will require money from the project, from salaries to technological costs to outsourcing to marketing costs. Also, feasibility study is a good place to estimate how much money will the whole project require, and can be used in the budget analysis as a reference. Finally, operational feasibility must show the details in which we are thinking to develop the project (how many phases, which ones will be done first and on what basis, etc..)
+
+Application in Real Projects:
+For what I learned in the project, I went back to my feasibility study that was done for a dental system that was the software management project for my undergrad course, and I compared between them and saw the differences. The main difference was that the technical and operational feasibilities were much more detailed here than in what I did in undergrad, so I went back and updated these based on what we wrote on the other documents for the dental system.
+
+
+Peer Interactions:
+I have two friends that currently work in a PMO, and I asked them how they did their feasibility studies to compare with that we’re doing, and they said that it’s very similar to what we’re doing. They provided more elaboration depending on what type of project is being implementing. For example, if we’re trying to implement a completely new solution to achieve something new in the business and the IT market, then it is usually done by a party called Enterprise Architects, where they decide the criteria across many domains of their organization using well-defined practices such as Dynamic Systems Development Method (DSDM) or The Open Group Architecture Framework (TOGAF). They use these frameworks to consider and assess functionalities, planning, costs, risks, profits, impact on existing systems, and so on. There is also another possibility where an existing solution needs to be expanded on, the same approach was mostly used, but less tasks were required because they were already done before.
+
+Challenges Faced:
+
+For the midterm, the main challenges was that the book sometimes has too few information, or unclear about some topics, so I had to do some research online… but many of the sources I found online contradict each other or provide very different information about the same topic.
+
+As for the project, most of the work had to be thoroughly researched first, as the book barely provided any information about it, emails to the Professor and TA meetings were extremely fruitful and put me in a much better direction towards what I was supposed to do. Finding correct salary prices for the human resources for our project and usual outsourcing costs of specific software components was also challenging, because the suggested prices over many websites (Glassdoor, linkedin, indeed) were extremely different from each other. So I had to pick the one that made most sense.
+
+
+Personal development activities:
+Practicing what I learned from the project & talking to my peers gave me a lot of insight on the project management topics discussed in deliverable 2, so I am currently talking to a project manager that works in my brother’s company to see what is usually required for project management entry level jobs, and what do they usually expect.
+
+Goals for the Next Week:
+Next week will focus on Chapters 7 and 8, as well as finding a partner and a topic for the Posterathon.
