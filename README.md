@@ -1,1 +1,1 @@
-# COMP-6841-Journals
+# COMP-6841-Content
